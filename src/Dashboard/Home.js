@@ -1,8 +1,12 @@
-import Headers from "../Components/Header";
+import DashboardHeader from "./DashboardHeader";
+import Sidebar from "./Sidebar";
+
 function Home() {
   return (
     <div>
-        <Headers/>
+        <DashboardHeader/>
+        <Sidebar/>
+        
     </div>
   );
 }
