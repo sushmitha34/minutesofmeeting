@@ -32,6 +32,7 @@ export default function Login(props) {
             <h3 className="Auth-form-title">Login</h3>
             <div className="form-group mt-5">
               <label>Email address or Username</label>
+              <p>hii</p>
               <input
                 type="email"
                 className="form-control mt-1"
